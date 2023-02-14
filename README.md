@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=initialshoot" alt="initialshoot" /></a> </p>
 
-- 🔭 I’m currently working on **Dental Page for my GF <3**
-
 - 🌱 I’m currently learning **Cloud Solutions**
 
 - 👨‍💻 All of my projects are available at [https://github.com/initialshoot](https://github.com/initialshoot)
